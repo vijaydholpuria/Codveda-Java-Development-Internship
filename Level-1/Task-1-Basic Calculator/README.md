@@ -42,6 +42,8 @@ The application runs continuously until the user chooses the Exit option.
 
 ```bash
 javac BasicCalculator.java
+java BasicCalculator
+```
 
 ## Screenshots
 
